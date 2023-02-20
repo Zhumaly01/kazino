@@ -1,0 +1,3 @@
+python-decouple==3.7
+pip~=22.0.4
+setuptools~=58.1.0
